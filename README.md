@@ -24,6 +24,6 @@ $ /Library/Java/JavaVirtualMachines/jdk-12.jdk/Contents/Home/bin/java -cp jetty-
 2019-04-03 16:59:46.733:INFO::Started SocketConnector@0.0.0.0:8080
 2019-04-03 16:59:46.854:INFO::Started SslSocketConnector@0.0.0.0:50825
 2019-04-03 16:59:49.039:INFO::Stopped SslSocketConnector@0.0.0.0:50825
-...hangs
+...hangs here for about 6 minutes
 ```
 
